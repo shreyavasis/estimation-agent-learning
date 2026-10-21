@@ -35,3 +35,5 @@ A reviewer should check that the estimate covers the requested scope, identifies
 ## Learning Objectives
 
 Use GitHub to track documentation changes, propose improvements through branches and pull requests, and record future work with issues.
+
+blah blah blah 
